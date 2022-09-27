@@ -13,3 +13,5 @@ C:\Users\albnb\Code\matc\itdev162\albin-berisha\Persistence\obj\Debug\net6.0\Per
 C:\Users\albnb\Code\matc\itdev162\albin-berisha\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 C:\Users\albnb\Code\matc\itdev162\albin-berisha\Persistence\obj\Debug\net6.0\Persistence.pdb
 C:\Users\albnb\Code\matc\itdev162\albin-berisha\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\albnb\Code\matc\itdev162\albin-berisha\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Users\albnb\Code\matc\itdev162\albin-berisha\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
